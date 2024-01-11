@@ -1,0 +1,12 @@
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.Core.Extensions.deps.json
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.Core.Extensions.dll
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.Core.Extensions.pdb
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.AssemblyInfoInputs.cache
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.AssemblyInfo.cs
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.csproj.CoreCompileInputs.cache
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.dll
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\refint\ImportFile.Core.Extensions.dll
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.pdb
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ref\ImportFile.Core.Extensions.dll
+C:\ProjetC#\ASP .NET\ImportFile\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.csproj.AssemblyReference.cache
