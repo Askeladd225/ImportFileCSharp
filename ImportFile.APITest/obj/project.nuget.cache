@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RLUFUCBDvDpYMwcVVaboI7T8gkcCc1h3kyjI3dH9cuTJx1rIaCkXpOZu22bsi4xn/uP/RzraGBmG+gyC8DzzYA==",
+  "success": false,
+  "projectFilePath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.APITest\\ImportFile.APITest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Impossible de charger l'index de service pour la source https://api.nuget.org/v3/index.json.",
+      "libraryId": "xunit.extensibility.core"
+    }
+  ]
+}

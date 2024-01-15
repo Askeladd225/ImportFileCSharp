@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NgxZU3VtaLXN/wzN/P7gnztEfCQqx8ZztoHwR3T6I6EgbaYq9Qi2Q6tQkpXfxt2o2eUyh5bBgTOVJYdPRfk2Tg==",
+  "dgSpecHash": "oPuxij3MZrkiLEBLiQqIrfsFyKNwTfdbZ0LUIYqkCzSChMtSXrijR5fBlsc2Aa8Uv0RsZZqTsc7WFt14i2S/Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj",
+  "projectFilePath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hans.ouattara\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
-    "C:\\Users\\hans.ouattara\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
-    "C:\\Users\\hans.ouattara\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+    "C:\\Users\\Ange GOPROU\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Ange GOPROU\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ange GOPROU\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }

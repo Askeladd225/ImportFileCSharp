@@ -23,6 +23,7 @@ namespace ImportFile.Controllers
         }
 
         [HttpPost]
+        [Route("api/ImportWithoutIFormData")]
         [SwaggerOperation("CheckValidExtension", "Importation de fichier via le path du fichier")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(string), StatusCodes.Status400BadRequest)]

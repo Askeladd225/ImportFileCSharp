@@ -1,13 +1,16 @@
 ﻿using ImportFile.Core.Extensions;
+using Microsoft.AspNetCore.Http;
+
 namespace TestConsole
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            var _Directory = "C:\\ProjetC#\\ASP .NET\\ImportFile\\ImportFile\\Data\\Nouveau Document texte.txt";
-            FileExtension fileExtension = new FileExtension();
-            if (fileExtension.CheckFileExist(_Directory))
+            var _Directory = "C:\\ProjetC#\\ASP .NET\\ImportFile\\ImportFile\\Data\\bussiness plan (2).xls";
+            var fileInfo = new FileInfo(_Directory);
+            Console.WriteLine(Directory.GetCurrentDirectory());
+            if (FileExtension.CheckFileExist(_Directory))
             {
                 Console.WriteLine("Le fichier existe deja");
             }
@@ -16,6 +19,5 @@ namespace TestConsole
                 Console.WriteLine("Le fichier n'existe pas");
             }
         }
-
     }
 }

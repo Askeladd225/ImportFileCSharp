@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y9dpBh3s/k6Ec3cK/ITvSB3INVHyqh57tx+ILwFgvZHwbKqV6CdIirAbvO/hqC5/B3kvDtdV2UqEy0W9vBRHNw==",
+  "dgSpecHash": "lcW8V4gdIyMh651aNCh+7MrRkU9vYN25jzF85QkvkN3r2j34lDjanQVdPlcjYcbvQXTh21UBMihwLKkiWMeVZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj",
+  "projectFilePath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

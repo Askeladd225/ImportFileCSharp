@@ -12,7 +12,7 @@ namespace ImportFile.Core.Extensions
         {
           return  File.Exists(Path.Combine(_Directory, filePath)) ? true : false;         
         }
-        public static async Task MoveFileToDirecrory(IFormFile file, string exactpath)
+        private static async Task MoveFileToDirecrory(IFormFile file, string exactpath)
         {
             using (var stream = new FileStream(exactpath, FileMode.Create))
             {
@@ -31,15 +31,25 @@ namespace ImportFile.Core.Extensions
                 {
                     Directory.CreateDirectory(filepath);
                 }
+
                 var exactpath = Path.Combine(_Directory, "Data", file.FileName);
+
                 if (!FileExtension.CheckFileExist(exactpath))
                 {
                     await FileExtension.MoveFileToDirecrory(file, exactpath);
                 }
+
                 else return FileException.ThrowException(Error, "Le fichier sélectionné a deja été uploadé");
+                
                 return $"{Path.Combine(Directory.GetCurrentDirectory(), "Data", file.FileName)}";
             }
             else return FileException.ThrowException(Error, "Le format du fichier n'est pas valide");
+        }
+
+        public static bool CompareFileContent(string firstPathFile ,string[] path2)
+        {
+
+            return true;
         }
     }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj": {}
+    "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj": {
+    "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj",
+        "projectUniqueName": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj",
         "projectName": "ImportFile.Core.Extensions",
-        "projectPath": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj",
-        "packagesPath": "C:\\Users\\hans.ouattara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.Core.Extensions\\obj\\",
+        "projectPath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.Core.Extensions\\ImportFile.Core.Extensions.csproj",
+        "packagesPath": "C:\\Users\\Ange GOPROU\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.Core.Extensions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hans.ouattara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ange GOPROU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
