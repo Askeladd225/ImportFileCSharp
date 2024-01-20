@@ -22,3 +22,10 @@ C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\obj\Debug\net6.
 C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\obj\Debug\net6.0\refint\ImportFile.Core.Extensions.dll
 C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.pdb
 C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\obj\Debug\net6.0\ref\ImportFile.Core.Extensions.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.Core.Extensions.runtimeconfig.json
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.pdb
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.csproj.CopyComplete
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\obj\Debug\net6.0\ImportFile.Core.Extensions.genruntimeconfig.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.Infracstructure.Persistence.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Core.Extensions\bin\Debug\net6.0\ImportFile.Infracstructure.Persistence.pdb

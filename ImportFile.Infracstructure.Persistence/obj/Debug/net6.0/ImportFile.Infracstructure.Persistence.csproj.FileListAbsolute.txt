@@ -1,0 +1,17 @@
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\bin\Debug\net6.0\ImportFile.Infracstructure.Persistence.deps.json
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\bin\Debug\net6.0\ImportFile.Infracstructure.Persistence.runtimeconfig.json
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\bin\Debug\net6.0\ImportFile.Infracstructure.Persistence.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\bin\Debug\net6.0\ImportFile.Infracstructure.Persistence.pdb
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.pdb
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.csproj.AssemblyReference.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.AssemblyInfoInputs.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.AssemblyInfo.cs
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.csproj.CoreCompileInputs.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.csproj.CopyComplete
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\refint\ImportFile.Infracstructure.Persistence.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.pdb
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ImportFile.Infracstructure.Persistence.genruntimeconfig.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.Infracstructure.Persistence\obj\Debug\net6.0\ref\ImportFile.Infracstructure.Persistence.dll

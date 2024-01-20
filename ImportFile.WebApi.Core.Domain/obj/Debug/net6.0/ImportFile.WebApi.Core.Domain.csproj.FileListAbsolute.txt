@@ -1,0 +1,14 @@
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.deps.json
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.runtimeconfig.json
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\bin\Debug\net6.0\ImportFile.WebApi.Core.Domain.pdb
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.csproj.AssemblyReference.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.AssemblyInfoInputs.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.AssemblyInfo.cs
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\refint\ImportFile.WebApi.Core.Domain.dll
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.pdb
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ImportFile.WebApi.Core.Domain.genruntimeconfig.cache
+C:\ProjetC#\ASP .NET\ImportFileCSharp\ImportFile.WebApi.Core.Domain\obj\Debug\net6.0\ref\ImportFile.WebApi.Core.Domain.dll

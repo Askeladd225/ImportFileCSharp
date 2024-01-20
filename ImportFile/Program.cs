@@ -1,3 +1,6 @@
+using ImportFile.Infracstructure.Persistence;
+using Microsoft.EntityFrameworkCore;
+
 namespace ImportFile
 {
     public class Program
@@ -6,7 +9,10 @@ namespace ImportFile
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection String : 'DefaultConnection' not found");
+            builder.Services.AddDbContext<GameDbContext>(option => option.UseSqlServer(connectionString));
             // Add services to the container.
+
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -1,9 +1,9 @@
 namespace ImportFile.APITest
 {
-    public class UnitTest1
+    public class GetAllTest
     {
         [Fact]
-        public void Test1()
+        public void GetListO()
         {
 
         }
