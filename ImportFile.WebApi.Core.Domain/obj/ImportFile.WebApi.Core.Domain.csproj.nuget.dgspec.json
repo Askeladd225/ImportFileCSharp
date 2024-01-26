@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj": {}
+    "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj": {}
   },
   "projects": {
-    "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj": {
+    "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj",
         "projectName": "ImportFile.WebApi.Core.Domain",
-        "projectPath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\Ange GOPROU\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetC#\\ASP .NET\\ImportFileCSharp\\ImportFile.WebApi.Core.Domain\\obj\\",
+        "projectPath": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.WebApi.Core.Domain\\ImportFile.WebApi.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\hans.ouattara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hans.ouattara\\source\\ImportFile\\ImportFile.WebApi.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ange GOPROU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hans.ouattara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
